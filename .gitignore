@@ -1,0 +1,12 @@
+﻿
+appsettings.json
+appsettings.Development.json
+
+
+.vs/
+bin/
+obj/
+
+
+logs/
+*.log
